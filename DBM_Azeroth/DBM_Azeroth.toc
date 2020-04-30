@@ -1,0 +1,18 @@
+﻿## Interface: 20400
+## Title: |cff0055FFMisc. Azeroth Deadly Boss Mods|r
+## Title-zhCN: |cff0055FFDeadly|r 其他-艾泽拉斯 |cff0055FF模组|r
+## Notes: Deadly Boss Mods for outdoor bosses in the old world
+## Notes-zhCN: Deadly Boss Mod 的艾泽拉斯户外首领模组
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.tw.lua
+localization.cn.lua
+Onyxia.lua
+OutdoorDragons.lua
+Azuregos.lua
+Bosses.lua
+Load.lua

@@ -1,0 +1,24 @@
+﻿## Interface: 20400
+## Title: |cff0055FFDeadly AQ20 Boss Mods|r
+## Title-zhCN: |cff0055FFDeadly|r 安其拉废墟 |cff0055FF模组|r
+## Title-ruRU: |cff0055FFDeadly АК20 Boss Mods|r
+## Notes: Boss Mods for AQ20 (Ruins)
+## Notes-zhCN: Deadly Boss Mod 的安其拉废墟模组
+## Notes-ruRU: Руины Ан'Киража Boss Mods 
+## Author: Tandanu and Nitram
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+localization.en.lua
+localization.de.lua
+localization.fr.lua
+localization.tw.lua
+localization.cn.lua
+localization.ru.lua
+Rajaxx.lua
+Moam.lua
+Buru.lua
+Ayamiss.lua
+Ossirian.lua
+AnubisathGuardians.lua
+Bosses.lua
+Load.lua
